@@ -26,9 +26,11 @@ A framework for converting long-form videos to audio using advanced synthesis te
     <td width="50%">
       <h3>Introduction</h3>
       <ul>
-        <li><b>Demo 1:</b> Example introduction for the first demo. Briefly describe what this demo shows.</li>
-        <li><b>Demo 2:</b> Example introduction for the second demo. Briefly describe what this demo shows.</li>
-        <li><b>Demo 3:</b> Example introduction for the third demo. Briefly describe what this demo shows.</li>
+        <li><b>Demo 1:</b> Short description for demo 1.</li>
+        <li><b>Demo 2:</b> Short description for demo 2.</li>
+        <li><b>Demo 3:</b> Short description for demo 3.</li>
+        <li><b>Demo 4:</b> Short description for demo 4.</li>
+        <li><b>Demo 5:</b> Short description for demo 5.</li>
       </ul>
     </td>
     <td width="50%">
@@ -52,12 +54,22 @@ A framework for converting long-form videos to audio using advanced synthesis te
             Your browser does not support the video tag.
           </video>
         </li>
+        <li>
+          <video width="320" height="180" controls>
+            <source src="assets/demo4.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </li>
+        <li>
+          <video width="320" height="180" controls>
+            <source src="assets/demo5.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </li>
       </ul>
     </td>
   </tr>
 </table>
-
----
 
 ## 🔧 Installation & Usage
 
