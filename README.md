@@ -2,9 +2,7 @@
 A benchmark for aligning long-form videos to audio using synthesis models. We show demos of the benchmark datasets of thelong-form video-2-audi (audio effect) preview version with 1-minute video.
 
 ---
-
-## 🚀 Features
-## 📺 Example video demos in the dataset (1 minute each)
+## 🚀 Example video demos in the dataset (1 minute each)
 | Introduction                | Video Demo Link                |
 |-----------------------------|-------------------------------|
 | Demo 1: Short description   | [Demo 1 Video](assets/__Calm_sea_waves_NO_LOOP_on_pebbles__relaxing_sounds__HQ_sound_quality.00000032.mp4) |
