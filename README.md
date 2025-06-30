@@ -3,7 +3,7 @@ A benchmark for aligning long-form videos to audio using synthesis models. We sh
 
 ---
 ## 🚀 Example video demos in the dataset (1 minute each)
-| Introduction                | Video Demo Link                |
+| Description                | Video Demo Link                |
 |-----------------------------|-------------------------------|
 | Demo 1: Calm sea waves on pebbles| [Demo 1 Video](assets/__Calm_sea_waves_NO_LOOP_on_pebbles__relaxing_sounds__HQ_sound_quality.00000032.mp4) |
 | Demo 2: TikToks restocking| [Demo 2 Video](assets/__Christmas_Edition____Satisfying_Restocking_TikToks___Asmr_Compilation___Pt.14.00000013.mp4) |
