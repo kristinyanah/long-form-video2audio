@@ -1,25 +1,15 @@
 # long-form-video2audio
 # 🎬 long-form-video2audio
-
-License | Project Page | ArXiv
-
----
-
-## 🏗️ Project Framework
-
-A framework for converting long-form videos to audio using advanced synthesis techniques. This project showcases example demos with a two-column layout: introduction and 1-minute video demos.
+A benchmark for aligning long-form videos to audio using synthesis models. We show demos of the benchmark datasets of thelong-form video-2-audi (audio effect) preview version with 1-minute video.
 
 ---
 
 ## 🚀 Features
 
-- [✅] Example demo 1-minute videos.
-- [✅] Two-column layout: intro + video.
-- [ ] More features coming soon.
-
+- [✅] Example demos of 1-minute videos in the dataset.
 ---
 
-## 📺 Example Demos
+## 📺 Example videos
 
 <table>
   <tr>
@@ -72,9 +62,7 @@ A framework for converting long-form videos to audio using advanced synthesis te
 </table>
 
 ## 🔧 Installation & Usage
-
-_Coming soon ..._
-
+Please fill out the form to apply for dataset downloads for academic research purpose only.
 ---
 
 ## 📄 Citation
