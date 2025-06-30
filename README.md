@@ -10,56 +10,13 @@ A benchmark for aligning long-form videos to audio using synthesis models. We sh
 ---
 
 ## 📺 Example videos
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Introduction</h3>
-      <ul>
-        <li><b>Demo 1:</b> Short description for demo 1.</li>
-        <li><b>Demo 2:</b> Short description for demo 2.</li>
-        <li><b>Demo 3:</b> Short description for demo 3.</li>
-        <li><b>Demo 4:</b> Short description for demo 4.</li>
-        <li><b>Demo 5:</b> Short description for demo 5.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Video Demos</h3>
-      <ul>
-        <li>
-          <video width="320" height="180" controls>
-            <source src="assets/demo1.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </li>
-        <li>
-          <video width="320" height="180" controls>
-            <source src="assets/demo2.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </li>
-        <li>
-          <video width="320" height="180" controls>
-            <source src="assets/demo3.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </li>
-        <li>
-          <video width="320" height="180" controls>
-            <source src="assets/demo4.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </li>
-        <li>
-          <video width="320" height="180" controls>
-            <source src="assets/demo5.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Introduction                | Video Demo Link                |
+|-----------------------------|-------------------------------|
+| Demo 1: Short description   | [Demo 1 Video](assets/demo1.mp4) |
+| Demo 2: Short description   | [Demo 2 Video](assets/demo2.mp4) |
+| Demo 3: Short description   | [Demo 3 Video](assets/demo3.mp4) |
+| Demo 4: Short description   | [Demo 4 Video](assets/demo4.mp4) |
+| Demo 5: Short description   | [Demo 5 Video](assets/demo5.mp4) |
 
 ## 🔧 Installation & Usage
 Please fill out the form to apply for dataset downloads for academic research purpose only.
