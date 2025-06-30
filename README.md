@@ -1,4 +1,3 @@
-# long-form-video2audio
 # 🎬 long-form-video2audio
 A benchmark for aligning long-form videos to audio using synthesis models. We show demos of the benchmark datasets of thelong-form video-2-audi (audio effect) preview version with 1-minute video.
 
