@@ -1,4 +1,4 @@
-# 🎬 long-form-video2audio
+# 🎬 Long-form-video2audio
 A benchmark for aligning long-form videos to audio using synthesis models. We show demos of the benchmark datasets of thelong-form video-2-audi (audio effect) preview version with 1-minute video.
 
 ---
@@ -6,7 +6,6 @@ A benchmark for aligning long-form videos to audio using synthesis models. We sh
 ## 🚀 Features
 
 - [✅] Example demos of 1-minute videos in the dataset.
----
 
 ## 📺 Example videos
 | Introduction                | Video Demo Link                |
@@ -18,7 +17,7 @@ A benchmark for aligning long-form videos to audio using synthesis models. We sh
 | Demo 5: Short description   | [Demo 5 Video](assets/__Satisfying_Travel_Packing_Asmr___TikTok_Compilation___1_HOUR.00000024.mp4) |
 
 ## 🔧 Installation & Usage
-Please fill out the form to apply for dataset downloads for academic research purpose only.
+[✅] Please fill out the form to apply for dataset downloads for academic research purpose only.
 ---
 
 ## 📄 Citation
