@@ -11,8 +11,8 @@ A benchmark for aligning long-form videos to audio using synthesis models. We sh
 | Demo 4: Carnivore meals in the wild| [Demo 4 Video](assets/___3_______2____________.zip___2_hours_No_Music_Baking_Video___Relaxation_Cooking_Sounds__Cooking_tree.00000027.mp4) |
 | Demo 5: Baking| [Demo 5 Video](assets/__Satisfying_Travel_Packing_Asmr___TikTok_Compilation___1_HOUR.00000024.mp4) |
 
-## 🔧 Installation & Usage
-- [✅] Please email deepreasoninggo@gmail.com  and  fill out this form to apply for dataset downloads for academic research purpose only: https://drive.google.com/file/d/14YQs2k0HDmswy4ecl4eO-58U5Fr2J6kQ/view?usp=sharing
+## 🔧 Installation & Usag
+- [✅] To apply for dataset downloads for academic research purposes only, please [email deepreasoninggo@gmail.com](mailto:deepreasoninggo@gmail.com) **and** [fill out this form](https://drive.google.com/file/d/14YQs2k0HDmswy4ecl4eO-58U5Fr2J6kQ/view?usp=sharing).
 ---
 
 ## 📄 Citation
