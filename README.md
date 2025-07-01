@@ -12,7 +12,7 @@ A benchmark for aligning long-form videos to audio using synthesis models. We sh
 | Demo 5: Baking| [Demo 5 Video](assets/__Satisfying_Travel_Packing_Asmr___TikTok_Compilation___1_HOUR.00000024.mp4) |
 
 ## 🔧 Installation & Usag
-- [✅] To apply for dataset downloads for academic research purposes only, please email <a href="mailto:deepreasoninggo@gmail.com">deepreasoninggo@gmail.com</a> **and** <a href="[https://drive.google.com/file/d/14YQs2k0HDmswy4ecl4eO-58U5Fr2J6kQ/view?usp=sharing](https://drive.google.com/file/d/1ofYq5ijPMXV5NYjJFsg0yMOS2jO_wi6G/view?usp=sharing)" target="_blank" rel="noopener noreferrer">fill out this form</a>.
+- [✅] To apply for dataset downloads for academic research purposes only, please <a href="mailto:deepreasoninggo@gmail.com">email deepreasoninggo@gmail.com</a> **and** <a href="https://drive.google.com/file/d/1ofYq5ijPMXV5NYjJFsg0yMOS2jO_wi6G/view?usp=sharing" target="_blank" rel="noopener noreferrer">fill out this form</a>.
 ---
 
 ## 📄 Citation
